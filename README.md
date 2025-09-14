@@ -1,6 +1,6 @@
 # n8n on Oracle Cloud Free Tier (Ubuntu 24.04)
 
-> **Production‑ready on a shoestring**: This repo deploys **n8n** on an **Oracle Cloud Free Tier** VM using **Docker Compose**, with **NGINX** as a reverse proxy and **Let’s Encrypt (Certbot)** TLS. It’s safe to publish publicly **as long as you never commit secrets** — see [Security & what not to commit](#security--what-not-to-commit).
+> **Production‑ready on a shoestring**: This repo deploys **n8n** on an **Oracle Cloud Free Tier** VM using **Docker Compose**, with **NGINX** as a reverse proxy and **Let’s Encrypt (Certbot)** TLS. 
 
 ---
 
