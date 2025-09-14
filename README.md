@@ -400,7 +400,4 @@ server {
 }
 ```
 
----
 
-
-MIT — see `LICENSE`.
