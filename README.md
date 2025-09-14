@@ -23,7 +23,7 @@
   * [Troubleshooting](#troubleshooting)
 * [Security & what not to commit](#security--what-not-to-commit)
 * [Repo layout](#repo-layout)
-* [License](#license)
+
 
 ---
 
@@ -402,6 +402,5 @@ server {
 
 ---
 
-## License
 
 MIT — see `LICENSE`.
